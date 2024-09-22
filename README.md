@@ -1,2 +1,2 @@
 # swift-program
-all 10 program using xcode application
+swift code of sample programs(college assignment)
